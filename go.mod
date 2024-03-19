@@ -1,6 +1,6 @@
 module github.com/ZihuaZhang/Query
 
-go 1.22
+go 1.21
 
 require github.com/hyperledger/fabric-gateway v1.5.0
 
